@@ -2,10 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/tags/basic-elements/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/post/basic-elements/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/categories/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/tags/css/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/categories/development/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/tags/html/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/post/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/tags/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/post/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/post/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/post/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
 </urlset>
