@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/teaching/</loc>
+    <lastmod>2021-08-08T13:39:01+05:30</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/supervision/</loc>
+    <lastmod>2021-08-08T13:38:51+05:30</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/services/</loc>
+    <lastmod>2021-08-08T13:38:43+05:30</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/publications/</loc>
+    <lastmod>2021-08-08T13:38:31+05:30</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/research/</loc>
+    <lastmod>2021-08-08T13:38:16+05:30</lastmod>
+  </url><url>
+    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/</loc>
+    <lastmod>2021-08-08T13:37:39+05:30</lastmod>
+  </url><url>
     <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/tags/basic-elements/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,9 +38,6 @@
     <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/tags/html/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/post/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -31,9 +46,6 @@
   </url><url>
     <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sumitsharmacr.github.io/hugo-gh-pages-public/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
