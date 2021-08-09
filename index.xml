@@ -65,11 +65,8 @@ Setup Some fun facts about Hugo:
       <pubDate>Sun, 08 Aug 2021 13:38:16 +0530</pubDate>
       
       <guid>https://sumitsharmacr.github.io/hugo-gh-pages-public/research/</guid>
-      <description>Research Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <description>Research Interests My main research is in the area of real-time systems and autonomous systems:
+ Real-time scheduling and allocation on single- and multi-cores; Flexible and feedback-based methods for task/network scheduling; Control-scheduling co-design and design automation of CPS; Real-time I/O and time predictable computer architecture; Assuring timing and safety of robotic and autonomous systems. I am open to any form of collaboration worldwidely related to these fields.   Research Projects It makes use of a variety of open source projects including:</description>
     </item>
     
     <item>
